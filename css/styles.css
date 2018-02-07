@@ -1,0 +1,158 @@
+* {
+	font-family: Arial, sans-serif;
+	background-color: #F1F1F1;
+}
+
+body {
+	margin-bottom: 150px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+h3 {
+	color: #c2c2c2;
+}
+
+header input {
+	width: 100%;
+	height: 150px;
+	font-size: 5.5em;
+	color: #ec5a62;
+	border: none;
+	padding-left: 50px 50px;
+}
+
+.list1 {
+    width: 30%;
+    margin: 0 15px;
+    display: inline-block;
+    padding: 0;
+    margin-top: 40px;
+}
+
+.list1 li {
+	list-style-type: none;
+	display: inline-block;
+	padding: 5px 15px;
+	background: #ebebed;
+	margin: 5px 0;
+}
+
+.list1 li img {
+	width: 50px;
+	display: inline-block;
+	vertical-align: middle;
+	border-radius: 50%;
+}
+
+.list1 li a {
+	width: 235px;
+	text-align: left;
+	display: inline-block;
+	background: transparent;
+	color: #c2c2c2;
+	margin-left: 15px;
+}
+
+.list1 li:link {
+	background: rgba(118,117,128,0.05)
+}
+
+.list1 li:hover {
+	color: #ec5a62;
+	background: rgba(118,117,128,0.1);
+}
+
+.list1 a:hover {
+	color: #ec5a62; 
+}
+
+.list2 {
+    width: 30%;
+    margin: 0 15px;
+    display: inline-block;
+    padding: 0;
+    margin-top: 40px;
+}
+
+.list2 li {
+	list-style-type: none;
+	display: inline-block;
+	padding: 5px 15px;
+	background: #ebebed;
+	margin: 5px 0;
+}
+
+.list2 li img {
+	width: 50px;
+	display: inline-block;
+	vertical-align: middle;
+	border-radius: 50%;
+}
+
+.list2 li a {
+	width: 235px;
+	text-align: left;
+	display: inline-block;
+	background: transparent;
+	color: #c2c2c2;
+	margin-left: 15px;
+}
+
+.list2 li:link {
+	background: rgba(118,117,128,0.05)
+}
+
+.list2 li:hover {
+	color: #ec5a62;
+	background: rgba(118,117,128,0.1);
+}
+
+.list2 a:hover {
+	color: #ec5a62; 
+}
+
+.list3 {
+    width: 30%;
+    margin: 0 15px;
+    display: inline-block;
+    padding: 0;
+    margin-top: 40px;
+}
+
+.list3 li {
+	list-style-type: none;
+	display: inline-block;
+	padding: 5px 15px;
+	background: #ebebed;
+	margin: 5px 0;
+}
+
+.list3 li img {
+	width: 50px;
+	display: inline-block;
+	vertical-align: middle;
+	border-radius: 50%;
+}
+
+.list3 li a {
+	width: 235px;
+	text-align: left;
+	display: inline-block;
+	background: transparent;
+	color: #c2c2c2;
+	margin-left: 15px;
+}
+
+.list3 li:link {
+	background: rgba(118,117,128,0.05)
+}
+
+.list3 li:hover {
+	color: #ec5a62;
+	background: rgba(118,117,128,0.1);
+}
+
+.list3 a:hover {
+	color: #ec5a62; 
+}
