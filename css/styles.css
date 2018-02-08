@@ -97,6 +97,7 @@ header input {
 	background: transparent;
 	color: #c2c2c2;
 	margin-left: 15px;
+	vertical-align: middle;
 }
 
 .list2 li:link {
@@ -142,6 +143,7 @@ header input {
 	background: transparent;
 	color: #c2c2c2;
 	margin-left: 15px;
+	vertical-align: middle;
 }
 
 .list3 li:link {
